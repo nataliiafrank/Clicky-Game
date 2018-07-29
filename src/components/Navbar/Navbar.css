@@ -1,0 +1,22 @@
+.nav {
+    color: white;
+    background-color: rgb(60, 102, 243);
+    padding: 20px;
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.nav-list-item {
+    display: inline;
+    width: 33%;
+    float: left;
+    
+}

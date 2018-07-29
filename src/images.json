@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Homer Simpson",
+      "image": "./images/homer.png"
+    },
+    {
+      "id": 2,
+      "name": "Bart Simpson",
+      "image": "./images/bart.png"
+    },
+    {
+      "id": 3,
+      "name": "Marge Simpson",
+      "image": "./images/marge.png"
+    },
+    {
+      "id": 4,
+      "name": "Lisa Simpson",
+      "image": "./images/lisa.png"
+    },
+    {
+      "id": 5,
+      "name": "Willie",
+      "image": "./images/willie.png"
+    },
+    {
+      "id": 6,
+      "name": "Maggie",
+      "image": "./images/maggie.png"
+    },
+    {
+      "id": 7,
+      "name": "Ned Flanders",
+      "image": "./images/nedflanders.png"
+    },
+    {
+      "id": 8,
+      "name": "Milhouse",
+      "image": "./images/milhouse.png"
+    },
+    {
+      "id": 9,
+      "name": "Moe",
+      "image": "./images/moe.png"
+    },
+    {
+      "id": 10,
+      "name": "Barney",
+      "image": "./images/barney.png"
+    },
+    {
+      "id": 11,
+      "name": "Ralph",
+      "image": "./images/ralph.png"
+    },
+    {
+      "id": 12,
+      "name": "Grampa Simpson",
+      "image": "./images/grampa.png"
+    }
+  ]
