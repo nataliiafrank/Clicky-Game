@@ -1,6 +1,6 @@
 .nav {
-    color: white;
-    background-color: rgb(60, 102, 243);
+    color: rgb(99, 215, 250);
+    background-color:#fff;
     padding: 20px;
     text-align: center;
     font-size: 1.6rem;
@@ -19,4 +19,13 @@
     width: 33%;
     float: left;
     
+}
+
+.logo {
+    text-decoration: none;
+    color: rgb(99, 215, 250);
+}
+
+.status {
+    color: #fd5;
 }
